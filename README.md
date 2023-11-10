@@ -2,7 +2,7 @@
 - 😀 I'm an enthusiastic avid learner 
 - 👀 I’m interested in data science & actuarial studies 
 - 🌱 I’m currently learning statistics
-- 💞️ I’m looking for a summer internship 
+- 💞️ I’m looking for an end of studies internship 
 - 📫 How to reach me mariem.tabib@essai.ucar.tn 
 
 <!---

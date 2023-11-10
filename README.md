@@ -3,7 +3,7 @@
 - 👀 I’m interested in data science & actuarial studies 
 - 🌱 I’m currently learning statistics
 - 💞️ I’m looking for an end of studies internship 
-- 📫 How to reach me mariem.tabib@essai.ucar.tn 
+- 📫 How to reach me mariem.tabib@outlook.com
 
 <!---
 ettabib101/ettabib101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

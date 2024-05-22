@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Mariem Tabib @ettabib101 
 - 😀 I'm an enthusiastic avid learner 
-- 👀 I’m interested in data science & actuarial studies 
-- 🌱 I’m currently learning statistics
-- 💞️ I’m looking for an end of studies internship 
+- 🌳Seeking a challenging role as a machine learning engineer/data scientist in an innovative company to grow and gain valuable experience.
 - 📫 How to reach me mariem.tabib@outlook.com
 
 <!---
